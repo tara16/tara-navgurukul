@@ -1,0 +1,16 @@
+body{
+   background-color: lawngreen;
+}
+
+.hello{
+  align-items: center;
+  display: flex;
+  height: 680px;
+  justify-content: center;
+}
+
+.nav {
+  background-color: darkslateblue;
+  height: 220px;
+  width: 220px;
+}

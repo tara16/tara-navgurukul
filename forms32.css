@@ -1,0 +1,63 @@
+body{
+   background-color: deepskyblue;
+   margin: 200px;
+}
+h1{
+   border: 2px dotted blue;
+   padding: 20px;
+   text-align: center;
+}
+hr{
+   width: 500px;
+}
+a {
+   padding: 5px;
+   text-decoration: none;
+}
+.nav{
+   display: flex;
+   justify-content: space-around;
+}
+.b{
+    display: flex;
+    justify-content: center;
+}
+iframe{
+    height: 300px;
+    margin: 20px;
+    width: 550px;
+}
+h2{
+   margin: 20px;
+}
+h3{
+    color: pink;
+    text-align: center;
+}
+ul{
+   list-style-type: none;
+}
+.pic{
+   padding: 20px;
+   text-align: center;
+}
+.b{
+   display: flex;
+   justify-content: center;
+}
+p{
+   border: 2px solid blue;
+   margin: 20px;
+   padding: 25px;
+
+}
+.container{
+   display: flex;
+   padding: 20px;
+}
+.item{
+   border: 3px solid blue;
+}
+.item1{
+    border: 3px solid blue;
+}

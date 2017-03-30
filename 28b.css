@@ -1,0 +1,26 @@
+body{
+ background-color: chartreuse;
+}
+.container {
+  align-items: center;
+  display: flex;
+  justify-content:flex-end;
+  min-height: 100vh;
+}
+
+.item {
+  background-color: navajowhite;
+  height: 300px;
+  margin: 10px;
+  width: 150px;
+}
+
+.nav, four{
+  background-color: salmon;
+  height: 150px;
+}
+.three
+{
+  background-color: aquamarine;
+  height: 450px;
+}
